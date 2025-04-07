@@ -1,1 +1,3 @@
-# CS
+Консольные программки
+
+Console programs
