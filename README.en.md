@@ -1,14 +1,7 @@
+<a href="README.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/RUoff.svg"></a><a href="README.en.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/ENGon.svg"></a>
+</br>
 ## Console Programs in C#
 
-</br>
-<div>
-    <a href="README.md">
-        <img src="https://img.shields.io/badge/README-RU-blue?color=006400&labelColor=006400&style=for-the-badge">
-    </a>
-    <a href="README.en.md">
-        <img src="https://img.shields.io/badge/README-ENG-blue?color=44944a&labelColor=1C2325&style=for-the-badge">
-    </a>
-</div>
 
 ### Array of Pointers.cs
 The program implements a user menu for working with an array of pointers to double-type elements.
